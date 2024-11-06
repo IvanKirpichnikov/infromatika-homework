@@ -9,7 +9,6 @@ def task_206():
     
     return count_7
 
-# answer: 5
 def task_210():
     res = 36**10 + 6**25 - 15
     
@@ -20,7 +19,6 @@ def task_210():
         res //= 6
     return count_0
 
-# answer: 6
 def task_216():
     bases = [4, 5, 6, 7, 8, 9, 10]
     for base in bases:
